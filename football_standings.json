@@ -1,0 +1,84 @@
+{
+ "teams": [
+   {
+     "name": "Red Dragons FC",
+     "totalPoints": 82
+   },
+   {
+     "name": "Atlas United",
+     "totalPoints": 77
+   },
+   {
+     "name": "Quantum Warriors",
+     "totalPoints": 74
+   },
+   {
+     "name": "Storm City",
+     "totalPoints": 66
+   },
+   {
+     "name": "Royal Phoenix",
+     "totalPoints": 63
+   },
+   {
+     "name": "Black Bears Athletic",
+     "totalPoints": 59
+   },
+   {
+     "name": "Silver Knights",
+     "totalPoints": 57
+   },
+   {
+     "name": "Thunder Valley FC",
+     "totalPoints": 54
+   },
+   {
+     "name": "Golden Eagles United",
+     "totalPoints": 52
+   },
+   {
+     "name": "Emerald Titans",
+     "totalPoints": 48
+   },
+   {
+     "name": "Arctic Wolves",
+     "totalPoints": 46
+   },
+   {
+     "name": "Crystal Lake FC",
+     "totalPoints": 43
+   },
+   {
+     "name": "Metro Stars",
+     "totalPoints": 42
+   },
+   {
+     "name": "Iron Giants",
+     "totalPoints": 39
+   },
+   {
+     "name": "Blue Hurricanes",
+     "totalPoints": 37
+   },
+   {
+     "name": "Mountain Lions",
+     "totalPoints": 34
+   },
+   {
+     "name": "Sunset Raiders",
+     "totalPoints": 31
+   },
+   {
+     "name": "Victory Athletic",
+     "totalPoints": 29
+   },
+   {
+     "name": "Northern Lights FC",
+     "totalPoints": 26
+   },
+   {
+     "name": "Crimson Legends",
+     "totalPoints": 25
+   }
+ ]
+}
